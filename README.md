@@ -39,4 +39,4 @@ This project analyzes sales data to identify trends, evaluate business performan
 \## Project Status
 
 Project setup completed. Dataset preparation and analysis are in progress.
-
+Git workflow practice is in progress.
